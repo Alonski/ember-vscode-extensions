@@ -1,6 +1,23 @@
 # ember-vscode-extensions
 A list of EmberJS VSCode Extensions 
 
+**Ember Decorators**
+
+Author: Martin Feckie
+
+Description: Provides snippets and auto-imports for using ember-decorators with typescript files
+
+URL: https://marketplace.visualstudio.com/items?itemName=mfeckies.ember-decorators
+
+GitHub: https://github.com/mfeckie/vscode-ember-decorators
+
+Installs: 20+
+
+Features:
+
+- Provides decorators snippets and auto import for all of the decorators provided by http://ember-decorators.github.io/ember-decorators/latest/docs/
+- Convert attr to @attr for ember data contexts!
+
 **Handlebars**
 
 Author: André Junges
