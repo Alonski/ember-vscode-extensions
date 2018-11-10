@@ -1,6 +1,23 @@
 # ember-vscode-extensions
 A list of EmberJS VSCode Extensions 
 
+
+**Handlebars Formatter**
+
+Author: Martin Feckie
+
+Description: This extension allow you to format handlebars files using the currently unreleased Prettier glimmer parser
+
+URL: https://marketplace.visualstudio.com/items?itemName=mfeckies.handlebars-formatter
+
+GitHub: https://github.com/mfeckie/handlebars-formatter
+
+Installs: 1100+
+
+Features:
+
+- Format your handlebars files with Prettier ... that's it!
+
 **Ember Decorators**
 
 Author: Martin Feckie
@@ -174,7 +191,7 @@ URL: https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax
 
 GitHub: https://github.com/healthsparq/vscode-ember-syntax
 
-Installs: 3900+
+Installs: 5400+
 
 Features:
 
@@ -227,7 +244,7 @@ URL: https://marketplace.visualstudio.com/items?itemName=candidmetrics.ember-mod
 
 GitHub: https://github.com/candidmetrics/ember-module-snippets
 
-Installs: 400+
+Installs: 900+
 
 Snippets: https://github.com/candidmetrics/ember-module-snippets/blob/master/snippets/snippets.json
 
